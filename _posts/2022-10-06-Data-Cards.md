@@ -10,6 +10,6 @@ pin: true
 
 Here you can find the alpha version of 4 data cards for each faction in Bellum Caelum. Click the link below to download the sheets.
 
-[The Eldaer](https://github.com/GraigR/file-store/master/bellum-caelum/pdfs/data-cards/Eldaer%20Sheets.pdf)  
-[The Krogh](https://github.com/GraigR/file-store/master/bellum-caelum/pdfs/data-cards/Krogh%20Sheets.pdf)  
-[The Nekhra](https://github.com/GraigR/file-store/master/bellum-caelum/pdfs/data-cards/Nekhra%20Sheets.pdf)  
+[The Eldaer](https://raw.githubusercontent.com/GraigR/file-store/master/bellum-caelum/pdfs/data-cards/Eldaer%20Sheets.pdf)  
+[The Krogh](https://raw.githubusercontent.com/GraigR/file-store/master/bellum-caelum/pdfs/data-cards/Krogh%20Sheets.pdf)  
+[The Nekhra](https://raw.githubusercontent.com/GraigR/file-store/master/bellum-caelum/pdfs/data-cards/Nekhra%20Sheets.pdf)  
