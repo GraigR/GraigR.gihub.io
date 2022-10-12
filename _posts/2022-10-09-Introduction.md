@@ -9,7 +9,7 @@ pin: true
 # Welcome!
 Hi Hobby Friends!
 
-Welcome to Bellum Caelum, a fast-paced, 6mm scale, miniature agnostic, forever free fan game set in the distant past of everyone's favourite science-fantasy war game franchise.
+Welcome to Bellum Caelum, a fast-paced, 6mm scale, miniature agnostic, forever free fan game set in the distant past of everyone's favourite science-fantasy war game franchise. 
 
 In the universe of Bellum Caelum, psychically ferocious space elves and hulking, cunning orcs battle against soulless mechanised undead abominations for the sake of all life in the galaxy. 
 
