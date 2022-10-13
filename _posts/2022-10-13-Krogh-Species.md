@@ -1,6 +1,6 @@
 ---
 title: Krogh Species
-date: 2022-10-12 12-15 +000
+date: 2022-10-13 12-15 +000
 categories: [Bellum Caelum, lore, krogh]
 tags: [lore, krogh]
 image:
@@ -27,5 +27,3 @@ Finally, towering over their kin and making up the ruling caste, the KroghKha, o
 Unlike Skiq, Snah and Ghett, KroghKha, usually referred to as simply Kha, can grow indefinitely. It is common for a Kha to surpass eight metres in height, and they will often grow to twelve or more metres, while the largest of their kind dwarf any vehicle, standing shoulder to shoulder with the Titans of other races. Krogh of these truly epic proportions gain a semi-godlike status amongst their kin, and are referred to as KroghMotKha.
 
 For all their remarkable physical and mental prowess, however, the KroghKha are single-minded, devoting themselves to the art of war almost to the exclusion of all else. Without the sustenance provided by the Skiq, the labour of the Snah, and the organisation offered by the Ghett, Kha would be liable to devote themselves exclusively to war, succumbing eventually to barbary and perhaps even starvation. It may be hard for other, more individually balanced races to square this fact with their knowledge of the Krogh as a noble, hardy, and exceptionally intelligent species, but the contradiction is resolved by considering Krogh society as a whole - countless individuals behaving as a single organic entity.
-
-![a war beast](https://raw.githubusercontent.com/GraigR/file-store/master/bellum-caelum/posts/20221013/kroghbeast.png)
