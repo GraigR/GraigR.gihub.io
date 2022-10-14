@@ -7,7 +7,7 @@ image:
   path: https://raw.githubusercontent.com/GraigR/file-store/master/bellum-caelum/posts/20221013/kroghbeast.png
   width: 1152
   height: 768
-  alt: A war sci-fi warbeast
+  alt: Power in Unity
 ---
 
 # Four As One

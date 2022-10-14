@@ -7,7 +7,7 @@ image:
   path: https://raw.githubusercontent.com/GraigR/file-store/master/bellum-caelum/posts/20221014/starfield.png
   width: 1152
   height: 768
-  alt: a star field
+  alt: A Realm of Limitless Potential
 ---
 
 # An Ocean of Power
